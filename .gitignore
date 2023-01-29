@@ -11,3 +11,6 @@ __pycache__/
 
 # DB Configs
 db_config.json
+
+# DB Permissions
+CA.pem
