@@ -9,6 +9,10 @@
 - Построение дашборда в Tableu Public. 
 - Подготовка презентации с полученными графиками.
 
+Выводы:
+- Дашборд: https://public.tableau.com/app/profile/tony6572/viz/ZenTopics_16689587536330/Dashboard1?publish=yes
+- Презентация: https://disk.yandex.ru/i/JGuvMkjqUQnxEw
+
 Навыки и инструменты:
 - Python,
 - SQLAlchemy,
